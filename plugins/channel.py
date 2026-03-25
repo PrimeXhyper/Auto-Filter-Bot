@@ -23,7 +23,7 @@ CAPTION_LANGUAGES = ["Bhojpuri", "Hindi", "Bengali", "Tamil", "English", "Bangla
 DEFAULT_IMAGE_URL = "https://te.legra.ph/file/88d845b4f8a024a71465d.jpg"
 
 SILENTX_PREMIUM_UPDATE = """
-<blockquote>🎬 𝕻ℝ𝔼𝕄𝕀𝕌𝕄 𝕄𝕆𝕍𝕀𝔼 𝕌ℙ𝔻𝔸𝕋𝔼 🎥</blockquote>
+<blockquote>🎬 𝘗𝘳𝘦𝘮𝘪𝘶𝘮 𝘔𝘰𝘷𝘪𝘦 𝘜𝘱𝘥𝘢𝘵𝘦 🎥</blockquote>
 
 <b><u>{}</u></b> <code>#{}</code>
 
@@ -38,7 +38,7 @@ SILENTX_PREMIUM_UPDATE = """
 <b>🏷️ Genres</b>: {}
 <code>━━━━━━━━━━━━━━━━━━</code>
 
-<b>⚡ Powered By @SilentXBotz</b>
+<b>᭕ᬁ𝅦𝅦 Powered By @iFightForU</b>
 """
 
 notified_movies = set()
