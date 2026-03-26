@@ -29,7 +29,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df5266
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://files.catbox.moe/mrns9u.jpg'))
 FSUB_IMG = (environ.get('FSUB_IMG', 'https://i.ibb.co/cShkPjcZ/x.jpg')).split() 
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8561360797').split()] 
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '8561360797 8221559270 7968389767').split()] 
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1003584104229').split()]
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1003831792629'))  
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL', '-100'))  
