@@ -119,7 +119,7 @@ def get_trailer_button(tmdb_data: Dict) -> list:
     videos = tmdb_data.get("videos", [])
     yt_videos = [v for v in videos if "youtube" in v.get("url", "").lower()]    
     if yt_videos:
-        return [InlineKeyboardButton("▶️ Watch Trailer", url=yt_videos[0]["url"])]
+        return [InlineKeyboardButton("▶️ 𝙒𝙖𝙩𝙘𝙝 𝙏𝙧𝙖𝙞𝙡𝙚𝙧", url=yt_videos[0]["url"])]
     return []
     
 async def send_with_visual(bot, caption: str, tmdb_data: Dict, search_movie):
@@ -127,7 +127,7 @@ async def send_with_visual(bot, caption: str, tmdb_data: Dict, search_movie):
         visual_url = await get_best_visual(tmdb_data)
         get_file = f'https://telegram.me/{temp.U_NAME}?start=getfile-{search_movie}'
         keyboard = InlineKeyboardMarkup([
-            [InlineKeyboardButton("📱 Get File", url=get_file)],
+            [InlineKeyboardButton("📱 𝙂𝙚𝙩 𝙔𝙤𝙪𝙧 𝙁𝙞𝙡𝙚", url=get_file)],
             get_trailer_button(tmdb_data)
         ])
         
