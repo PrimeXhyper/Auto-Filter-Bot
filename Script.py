@@ -255,7 +255,7 @@ class script(object):
 👤 ʀᴇᴏ̨ᴜᴇꜱᴛᴇᴅ ʙʏ: {message.from_user.mention}</b>"""
 
     RESTART_TXT = """
-<b>✅ ʙᴏᴛ ʀᴇꜱᴛᴀʀᴛᴇᴅ ​🇧​​🇾​ ​🇸​​🇨​​🇷​​🇮​​🇵​​🇹​​🇫​​🇱​​🇮​​🇽​!
+<b>✅ ʙᴏᴛ ʀᴇꜱᴛᴀʀᴛᴇᴅ​!
 🤖 ʙᴏᴛ : {}
 📅 ᴅᴀᴛᴇ: <code>{}</code>
 ⏰ ᴛɪᴍᴇ: <code>{}</code>
