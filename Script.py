@@ -4,8 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ.
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ꜱᴇʀɪᴇꜱ, ᴀɴɪᴍᴇꜱ, ᴀɴᴅ ᴍᴜᴄʜ ᴍᴏʀᴇ... 🎬
 ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ɴᴀᴍᴇ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ/ꜱᴇʀɪᴇꜱ ʏᴏᴜ ᴡᴀɴᴛ. 🔍</b>
-<blockquote>🔰 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮: <a href="https://t.me/DragonByte_Network">𝘋𝘳𝘢𝘨𝘰𝘯𝘉𝘺𝘵𝘦 𝘕𝘦𝘵𝘸𝘰𝘳𝘬 !!</a></blockquote>"""
-
+<blockquote>🔰 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮: <a href="https://t.me/DragonByte_Network">𝘋𝘳𝘢𝘨𝘰𝘯𝘉𝘺𝘵𝘦 !!</a></blockquote>"""
     FEATURES_TXT = """<b>🛠️ ʜᴇʀᴇ ᴀʀᴇ ᴍʏ ᴀᴠᴀɪʟᴀʙʟᴇ ꜰᴇᴀᴛᴜʀᴇꜱ 🛠️</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
@@ -243,7 +242,7 @@ class script(object):
 ᴍᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
     CAPTION = """<b>{file_name}\n
-📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <a href="https://t.me/ScriptFlix_Botz">𝘚𝘤𝘳𝘪𝘱𝘵𝘍𝘭𝘪𝘹</a></b>"""
+📤 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ: <a href="https://t.me/DragonByte_Network">DragonByte !!</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🎬 ᴛɪᴛʟᴇ: <a href={url}>{title}</a>
